@@ -4,23 +4,14 @@
 
 A Movie Booking Engine project for CC-206 - Application Development and Emerging Technologies
 
-<h2>Group Members:</h2>
+<h2>Group Member:</h2>
 <table align="center">
   <tr>
     <td align="center">
       <img src="assets/images/Sorbito.jpg" alt="Alejandro Matthew Sorbito" width="150" style="border-radius:10px;"><br>
       <strong>Alejandro Matthew Sorbito</strong>
     </td>
-    <td align="center">
-      <img src="assets/images/Tacsagon.jpg" alt="King Philip Tacsagon" width="150" style="border-radius:10px;"><br>
-      <strong>King Philip Tacsagon</strong>
-    </td>
-    <td align="center">
-      <img src="assets/images/Tuvilla.jpg" alt="Ilych John Edward Tuvilla" width="150" style="border-radius:10px;"><br>
-      <strong>Ilych John Edward Tuvilla</strong>
-    </td>
-  </tr>
-</table>
+
 
 <h2>📃 Description</h2>
 <p>BookBuster is a streamlined movie booking engine that empowers admins to manage every part of the cinema experience — from adding and scheduling movies to handling seat reservations. With tools to manage movie details, set screening schedules, and monitor bookings, BookBuster makes theater operations simple, fast, and blockbuster-ready! 🎬🍿</p>
