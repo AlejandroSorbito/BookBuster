@@ -11,6 +11,7 @@ A Movie Booking Engine project for CC-206 - Application Development and Emerging
       <img src="assets/images/Sorbito.jpg" alt="Alejandro Matthew Sorbito" width="150" style="border-radius:10px;"><br>
       <strong>Alejandro Matthew Sorbito</strong>
     </td>
+  </tr>
 </table>
 
 <h2>📃 Description</h2>
