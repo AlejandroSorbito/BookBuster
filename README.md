@@ -11,6 +11,14 @@ A Movie Booking Engine project for CC-206 - Application Development and Emerging
       <img src="assets/images/Sorbito.jpg" alt="Alejandro Matthew Sorbito" width="150" style="border-radius:10px;"><br>
       <strong>Alejandro Matthew Sorbito</strong>
     </td>
+      <td align="center">
+      <img src="assets/images/Tacsagon.jpg" alt="King Philip Tacsagon" width="150" style="border-radius:10px;"><br>
+      <strong>King Philip Tacsagon</strong>
+    </td>
+    <td align="center">
+      <img src="assets/images/Tuvilla.jpg" alt="Ilych John Edward Tuvilla" width="150" style="border-radius:10px;"><br>
+      <strong>Ilych John Edward Tuvilla</strong>
+    </td>
   </tr>
 </table>
 
